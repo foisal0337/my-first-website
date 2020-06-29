@@ -1,7 +1,14 @@
-For git 
-1.  shift tarminal to bash
-2.  echo "# my-first-website" >> README.md
-3.  git init
-4.  git add .
-5.  git commit -m"first commit"
-6.  git push
+For git First time when we push folder 
+
+1. echo "# my-first-website" >> README.md
+2. git init
+3. git add .
+4. git commit -m"first commit"
+5. git remote add origin https://github.com/foisal0337/my-first-website.git
+6. git push -u origin master
+
+For another time  
+
+1.  git add .
+2.  git commit -m"first commit"
+3.  git push
